@@ -1,2 +1,2 @@
 # EIP-Camel
-Enterprise Intrgration Patterns in the wild
+Enterprise Intergration Patterns in the wild
